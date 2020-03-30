@@ -7,5 +7,5 @@
 - Connected Components Labeling
 
 ### Homework 2: 
-- Binary Classification on RGB Images with the Perceptron Model
+- Binary Classification on RGB Images using the Perceptron Model
 - Convolutional Neural Networks using Keras
