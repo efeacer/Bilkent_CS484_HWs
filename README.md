@@ -5,3 +5,7 @@
 - Automatic Thresholding using Otsu Method
 - Morphological Operations: Dilation, Erosion, Opening, Closing, etc.
 - Connected Components Labeling
+
+### Homework 2: 
+- Binary Classification on RGB Images with the Perceptron Model
+- Convolutional Neural Networks using Keras
